@@ -17,13 +17,13 @@
 
 ## Other languages
 
-### 中文
+### Chinese
 
-1. 下载[背影(朱自清)](./example/beiying.txt).
-2. 上传文件
-3. 一些好的问题
-   1. 可以帮我总结一下这篇文章吗？
-   2. 请问买橘子是谁给谁买？
+1. Download [Back Shadow (Hamza Missaoui)](./example/beiying.txt).
+2. Upload the file.
+3. Some good starter questions:
+   1. Can you summarize this essay for me?
+   2. Who bought the oranges for whom in the story?
 
 ### How to contribution
 

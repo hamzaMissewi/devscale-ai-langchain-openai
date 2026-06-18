@@ -1,13 +1,13 @@
 {
-  "New folder": "新建文件夹",
-  "New chat": "新建聊天",
-  "No conversations.": "无对话",
-  "Search conversations...": "搜索对话...",
-  "OpenAI API Key": "OpenAI API 密钥",
-  "Import conversations": "导入对话",
-  "Are you sure?": "确定吗？",
-  "Clear conversations": "清空对话",
-  "Export conversations": "导出对话",
-  "Dark mode": "深色模式",
-  "Light mode": "浅色模式"
+  "New folder": "New folder",
+  "New chat": "New chat",
+  "No conversations.": "No conversations.",
+  "Search conversations...": "Search conversations...",
+  "OpenAI API Key": "OpenAI API Key",
+  "Import conversations": "Import conversations",
+  "Are you sure?": "Are you sure?",
+  "Clear conversations": "Clear conversations",
+  "Export conversations": "Export conversations",
+  "Dark mode": "Dark mode",
+  "Light mode": "Light mode"
 }
